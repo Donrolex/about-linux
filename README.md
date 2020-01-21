@@ -1,2 +1,3 @@
 # about-linux
-To know more about CD and check spamming etc
+To know more about Cc and check spamming etc
+I want to know about spamming of bank details and hacking databass
